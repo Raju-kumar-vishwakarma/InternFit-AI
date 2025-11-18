@@ -1,6 +1,5 @@
 import { useState } from "react";
-import NotificationBar from "@/components/NotificationBar";
-import Navbar from "@/components/Navbar";
+
 import HeroSection from "@/components/HeroSection";
 import ResumeUpload from "@/components/ResumeUpload";
 import WorkingProcess from "@/components/WorkingProcess";

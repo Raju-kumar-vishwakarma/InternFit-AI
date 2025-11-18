@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Target, Eye, Users, Award } from "lucide-react";
 import { useUserRole } from "@/hooks/useUserRole";

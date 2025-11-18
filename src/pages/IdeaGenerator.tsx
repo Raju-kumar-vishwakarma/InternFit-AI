@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Lightbulb, Star, Download, Loader2, FileText, Sparkles } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { supabase } from "@/integrations/supabase/client";
-import Navbar from "@/components/Navbar";
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 interface Idea {

@@ -6,7 +6,7 @@ import { NavLink } from "./NavLink"; // Aapka custom NavLink component
 import AuthDialog from "./AuthDialog";
 import { useUserRole } from "@/hooks/useUserRole";
 import logo from "../assests/logo.png";
-import { Skeleton } from "@/components/ui/skeleton";
+
 
 const Navbar = () => {
   const navigate = useNavigate();
