@@ -1,0 +1,7 @@
+project_id = "dhaimjjrvosemgtncapw"
+
+[functions.generate-ideas]
+verify_jwt = false
+
+[functions.ai-assistant]
+verify_jwt = false
